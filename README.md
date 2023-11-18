@@ -80,3 +80,40 @@ Factory Pattern: Creates different types of media items (audio, video) using a f
 
 
 
+
+Conclusion:
+
+
+
+Key Points of the Project:
+
+The media player application is designed to be a versatile tool for users to manage and enjoy their audio and video files.
+Key features include multimedia support for various formats, a user-friendly interface with intuitive controls, essential playback functionalities, and customization options.
+Design patterns such as Singleton, Strategy, Decorator, and Factory are employed to enhance code organization, maintainability, and extensibility.
+The Observer pattern is utilized to provide real-time notifications to users about the currently playing media item.
+
+
+
+Project Outcomes:
+
+Successful implementation of a media player with essential features and a well-organized codebase using design patterns.
+The application provides users with a seamless and customizable media playback experience.
+
+
+Challenges Faced:
+
+The main issue was selecting a topic of my project, because the topic should fit all design patterns and be interesting too. The second problem was in emplimenting Adapter design pattern, because personally for me Adapter design pattern is the hardest one and i study and search a lot of information that helped me to understand and correctly insert it into my project.
+
+
+
+Future Improvements:
+
+Integration of more advanced features such as playlist management, equalizer settings, and support for additional media formats.
+Enhancements to the user interface for a more visually appealing and intuitive experience.
+Optimization of the media player's performance and efficiency, especially when handling large media libraries.
+
+
+
+![123](https://github.com/almiinho/SDP-final/assets/130157003/d3454bdc-2198-4f4b-8be7-4374654875a3)
+![321](https://github.com/almiinho/SDP-final/assets/130157003/e648eaa3-128e-45cd-a507-91265388ff21)
+
